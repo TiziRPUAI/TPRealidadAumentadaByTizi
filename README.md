@@ -5,7 +5,7 @@ Prototipo funcional de Realidad Aumentada desarrollado en **Unity 6 (6000.4.1f1)
 ---
 
 ## 📌 Demostración en Video
-- **Video Demostrativo (YouTube):** [ENLACE_A_TU_VIDEO_AQUI]
+- **Video Demostrativo (YouTube):** (https://youtu.be/8qL3Vsck5rU)
 
 ---
 
